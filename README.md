@@ -3,4 +3,4 @@
 
 [Link](kanbanpizza.onrender.com)
 
-![pizzaman](pizzaman.png)
+![pizzaman](logo.jpg)
